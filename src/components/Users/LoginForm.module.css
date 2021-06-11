@@ -1,0 +1,33 @@
+.login {
+    margin: 2rem auto;
+    padding: 1rem;
+    width: 90%;
+    max-width: 20rem;
+}
+.login h2 {
+    text-align: center;
+    color: slateblue;
+}
+.login div {
+    margin-bottom: 1rem;
+}
+.login Button {
+    background-color: rgb(10, 107, 42);
+    border-radius: 15px;
+    border-style: none;
+    font-weight: bold;
+}
+.login label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+.login input {
+    font: inherit;
+    display: block;
+    border: 1px solid #ccc;
+    padding: 0.15rem;
+}
+.login input:focus {
+    outline: none;
+    border: 2px solid rgb(49, 190, 80);
+}
